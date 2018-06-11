@@ -1,0 +1,12 @@
+[submodule "lesson2/exercise/exercise17"]
+	path = lesson2/exercise/exercise17
+	url = git@github.com:Yatoo2018/exercise17.git
+[submodule "lesson1/exercise/exercise1"]
+	path = lesson1/exercise/exercise1
+	url = git@github.com:Yatoo2018/Mocha-start.git
+[submodule "lesson1/exercise/exercise2"]
+	path = lesson1/exercise/exercise2
+	url = git@github.com:Yatoo2018/Mocha-exercise.git
+[submodule "lesson1/exercise/exercise3"]
+	path = lesson1/exercise/exercise3
+	url = git@github.com:Yatoo2018/Karam-exercise.git
