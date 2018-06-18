@@ -10,3 +10,9 @@
 [submodule "lesson1/exercise/exercise3"]
 	path = lesson1/exercise/exercise3
 	url = git@github.com:Yatoo2018/Karam-exercise.git
+[submodule "Yatoo"]
+	path = Yatoo
+	url = git@github.com:Yatoo2018/Yatoo.git
+[submodule "utils"]
+	path = utils
+	url = git@github.com:Yatoo2018/utils.git
