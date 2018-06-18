@@ -16,3 +16,7 @@
 [submodule "utils"]
 	path = utils
 	url = git@github.com:Yatoo2018/utils.git
+[submodule "lesson1/homework/lesson-one-homework"]
+	path = lesson1/homework/lesson-one-homework
+	url = git@github.com:Yatoo2018/lesson-one-homework.git
+
