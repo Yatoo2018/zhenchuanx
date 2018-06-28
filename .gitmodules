@@ -16,7 +16,27 @@
 [submodule "utils"]
 	path = utils
 	url = git@github.com:Yatoo2018/utils.git
-
 [submodule "lesson1/homework"]
 	path = lesson1/homework
 	url = git@github.com:Yatoo2018/lesson-one-homework.git
+[submodule "lesson3/exercise/exercise4"]
+	path = lesson3/exercise/exercise4
+	url = git@github.com:Yatoo2018/Know-This-exercise4.git
+[submodule "lesson3/exercise/exercise5"]
+	path = lesson3/exercise/exercise5
+	url = git@github.com:Yatoo2018/execrise5.git
+[submodule "showcase/showcase3"]
+	path = showcase/showcase3
+	url = git@github.com:honeybeer/showcase3.git
+[submodule "lesson4/exercise/RegExp-exercise5"]
+	path = lesson4/exercise/RegExp-exercise5
+	url = git@github.com:honeybeer/exercise5.git
+[submodule "lesson4/exercise/RegExp-exercise6"]
+	path = lesson4/exercise/RegExp-exercise6
+	url = git@github.com:honeybeer/exercise6.git
+[submodule "lesson4/exercise/RegExp-exercise7"]
+	path = lesson4/exercise/RegExp-exercise7
+	url = git@github.com:honeybeer/exercise7.git
+[submodule "lesson3/homework"]
+	path = lesson3/homework
+	url = git@github.com:honeybeer/homework2.git
