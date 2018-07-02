@@ -37,3 +37,9 @@
 [submodule "lesson4/exercise/RegExp-exercise7"]
 	path = lesson4/exercise/RegExp-exercise7
 	url = git@github.com:Yatoo2018/RegExp-exercise7.git
+[submodule "lesson3/homework"]
+	path = lesson3/homework
+	url = git@github.com:Yatoo2018/homework2.git
+[submodule "showcase/JavaScript-Module-showcase3"]
+	path = showcase/JavaScript-Module-showcase3
+	url = git@github.com:Yatoo2018/JavaScript-Module-showcase3.git
