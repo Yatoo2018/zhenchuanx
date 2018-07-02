@@ -37,6 +37,3 @@
 [submodule "lesson4/exercise/RegExp-exercise7"]
 	path = lesson4/exercise/RegExp-exercise7
 	url = git@github.com:Yatoo2018/RegExp-exercise7.git
-[submodule "showcase/showcase3"]
-	path = showcase/showcase3
-	url = git@github.com:honeybeer/showcase3.git
