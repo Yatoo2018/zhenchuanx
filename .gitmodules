@@ -31,3 +31,6 @@
 [submodule "lesson3/homework"]
 	path = lesson3/homework
 	url = git@github.com:honeybeer/homework2.git
+[submodule "lesson4/homework"]
+	path = lesson4/homework
+	url = git@github.com:Yatoo2018/homework7.git
