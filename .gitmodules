@@ -25,12 +25,6 @@
 [submodule "lesson3/exercise/exercise5"]
 	path = lesson3/exercise/exercise5
 	url = git@github.com:Yatoo2018/execrise5.git
-[submodule "showcase/showcase3"]
-	path = showcase/showcase3
-	url = git@github.com:honeybeer/showcase3.git
-[submodule "lesson3/homework"]
-	path = lesson3/homework
-	url = git@github.com:honeybeer/homework2.git
 [submodule "lesson4/homework"]
 	path = lesson4/homework
 	url = git@github.com:Yatoo2018/homework7.git
@@ -43,3 +37,6 @@
 [submodule "lesson4/exercise/RegExp-exercise7"]
 	path = lesson4/exercise/RegExp-exercise7
 	url = git@github.com:Yatoo2018/RegExp-exercise7.git
+[submodule "showcase/showcase3"]
+	path = showcase/showcase3
+	url = git@github.com:honeybeer/showcase3.git
