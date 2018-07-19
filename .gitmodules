@@ -43,3 +43,18 @@
 [submodule "showcase/JavaScript-Module-showcase3"]
 	path = showcase/JavaScript-Module-showcase3
 	url = git@github.com:Yatoo2018/JavaScript-Module-showcase3.git
+[submodule "showcase/RegExp-showcase13"]
+	path = showcase/RegExp-showcase13
+	url = git@github.com:Yatoo2018/RegExp-showcase13.git
+[submodule "lesson4/regexper-static"]
+	path = lesson4/regexper-static
+	url = git@github.com:Yatoo2018/regexper-static.git
+[submodule "showcase/Error-upReporter-showcase4"]
+	path = showcase/Error-upReporter-showcase4
+	url = git@github.com:Yatoo2018/showcase4.git
+[submodule "lesson5/egg"]
+	path = lesson5/egg
+	url = git@github.com:Yatoo2018/egg.git
+[submodule "lesson5/egg-examples"]
+	path = lesson5/egg-examples
+	url = https://github.com/eggjs/examples.git
